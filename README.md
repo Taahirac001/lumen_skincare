@@ -11,3 +11,4 @@ Dawn-based theme for lumen-skincare.myshopify.com plus the shop's product discou
 | `snippets/` | Price snippet |
 | `templates/` | JSON templates (index, product) |
 | `extensions/product-discount/` | Product discount function |
+| `internal/intake-desk/` | Staff intake desk (order lookup, customer lookup, email resend) |
